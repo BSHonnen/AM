@@ -1,11 +1,6 @@
-# Python Twitter Examples
-
-A set of Python scripts to demonstrate interactions with the Twitter API
-via the [Python Twitter Tools](https://github.com/ideoforms/python-twitter-examples) module.
-
 ## Usage
 
-These examples require Python 3. To install prerequisites:
+Python 3 is required. To install prerequisites:
 
     pip install -r requirements.txt
 
@@ -23,16 +18,4 @@ separately. To be guided through this process, run:
 
     python twitter-authorize.py
 
-Then add your consumer and access tokens to `config.py`.
-
-## History
-
-This collection was first developed for a 2012 laboratory in social data
-mining for the MA/MSc Digital Sociology, Digital Journalism and Creating Social
-Media courses at the Centre for Creative and Social Technology, Goldsmiths,
-University of London.
-
-    Daniel Jones <d.jones@gold.ac.uk>
-    http://www.erase.net
-
-------------------------------------------------------------------------
+Then add your consumer and access tokens to `config.py`
