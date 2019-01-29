@@ -1,1 +1,4 @@
 venv/
+/TwitterPolling/config
+/TwitterPolling/__pycache__
+
