@@ -19,3 +19,7 @@ separately. To be guided through this process, run:
     python twitter-authorize.py
 
 Then add your consumer and access tokens to `config.py`
+
+Class files are `_` delimited
+
+Runners are `-` delimited
