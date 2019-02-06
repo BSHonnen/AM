@@ -20,3 +20,6 @@ class TrendData:
 
     def get_num_cities(self):
         return self.num_cities
+
+    def csv_format(self):
+          return '"{}",{},{},{}\n'.format(self.trend_name, str(self.num_cities), str(self.tweet_volume), str(self.promoted_content))
